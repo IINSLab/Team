@@ -1,2 +1,2 @@
 # Team
-https://ubiplab.github.io/Team/
+https://iinslab.github.io/Team/
